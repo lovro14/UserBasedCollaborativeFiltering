@@ -35,7 +35,7 @@ python main.py --dataset ml-1m \
 ## RMSE, Precision, Recall and F1-score
 ---
 
-<img src="images/rmse_CF.png" width="430" > &nbsp; &nbsp;&nbsp;    <img src="images/precision_cf.png" width="430">
+<img src="images/rmse_cf.png" width="430" > &nbsp; &nbsp;&nbsp;    <img src="images/precision_cf.png" width="430">
 <img src="images/recall_cf.png" width="430" > &nbsp; &nbsp;&nbsp;    <img src="images/f1_cf.png" width="430">
 
 
